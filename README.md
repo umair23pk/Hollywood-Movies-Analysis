@@ -12,11 +12,8 @@ Performance Analysis of Hollywood Movies from 2007 to 2011
 
 
 
-Step1: Initial Exploratory Analysis
 
-Step 2: Clean Data
-
-Step 2.1: Outlier removal 
+Step 1: Clean Data and  Outlier removal 
 
 Step 3: Exploratory Data Analysis 
 
